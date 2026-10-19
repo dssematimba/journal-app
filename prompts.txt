@@ -1,0 +1,14 @@
+Prompts used to build this application, in order of execution
+==============================================================
+
+1.
+scaffold a journal and todo list web app. set up the project structure, install dependencies, and get a basic app running in the browser with a clean minimal design and a navigation system that switches between a journal section and a todo section.
+
+2.
+Expand the journal feature. Improve the overall UX, design, and feel of the application. Allow users to be able to be able to log entries, draft a mood, and other related info
+
+3.
+Expand the todo list further as well. Add appropriate filters, make completed tasks have a distinct look compared to active ones, and improve the design overall
+
+4.
+Redo the entire design of the application. Give it a similar look and feel to Evernote, with a togglabe dark and light theme. Give it a more modern look and improve the typography, spacing, and visual consistency throughout the application. Make sure the app is fully responsive.
